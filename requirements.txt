@@ -8,3 +8,7 @@ six>=1.5.2
 PyDispatcher>=2.0.5
 service_identity
 parsel>=1.1
+fake_useragent
+spynner
+pyquery
+BeautifulSoup
